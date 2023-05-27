@@ -145,3 +145,11 @@ letter-spacing: 20px;
     padding: 10px;
     font-weight: 300;
 }
+
+@media (max-width:600px){
+.deal{
+    display: flex;
+    align-items: center;
+}
+
+}
